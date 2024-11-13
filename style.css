@@ -142,10 +142,10 @@ form input[type="submit"]:hover{
     color: white;
 }
 
-.footer .social-field.twitter{
+.footer .social-field.google{
     background: linear-gradient(to right, #56a7f2, #468aca);
 }
 
-.footer .social-field.facebook{
-    background: linear-gradient(to right, #1e3c72, #2a5298);
+.footer .social-field.apple{
+    background: linear-gradient(to right, #2f3439, #14171d);
 }
